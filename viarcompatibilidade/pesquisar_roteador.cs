@@ -55,8 +55,7 @@ namespace viarcompatibilidade
                 cmdSelect.Parameters.Add("@DESCRICAO", SqlDbType.VarChar, 500);
                 cmdSelect.Parameters["@DESCRICAO"].Value = this.textBox1.Text;
                 cmdSelect.Parameters["@NOME"].Value = this.comboBox1.Text;
-                cn.Open();    
-                
+                cn.Open();      
                 
                 byte[] vetorImagem = (byte[])cmdSelect.ExecuteScalar();
                 string strNomeArquivo = Convert.ToString(DateTime.Now.ToFileTime());
@@ -76,6 +75,7 @@ namespace viarcompatibilidade
 
                 cn.Close();
             }
+
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
@@ -89,10 +89,5 @@ namespace viarcompatibilidade
         }
 
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-           
-        }
     }
 }

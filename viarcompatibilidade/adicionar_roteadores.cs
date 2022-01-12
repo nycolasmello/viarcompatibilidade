@@ -21,7 +21,7 @@ namespace viarcompatibilidade
         }
         private long tamanhoArquivoImagem = 0;
         private byte[] vetorImagens;
-   
+
 
         private void adicionar_roteadores_Load(object sender, EventArgs e)
         {
@@ -54,10 +54,13 @@ namespace viarcompatibilidade
                 
                 cmd.Parameters["@NOME"].Value = textBox1.Text;
                 cmd.Parameters["@DESCRICAO"].Value = textBox2.Text;
-                cmd.Parameters["@FOTO"].Value = ImageData;              
+                cmd.Parameters["@FOTO"].Value = ImageData;
+                //SqlParameter prm = new SqlParameter("@FOTO", SqlDbType.VarBinary, byt.Length, ParameterDirection.Input, false, 0, 0, null, DataRowVersion.Current, byt);
+                //cmd.Parameters.Add(prm);
+
 
                 cn.Open();
-                int RowsAffected = cmd.ExecuteNonQuery();       
+                int RowsAffected = cmd.ExecuteNonQuery();
                 if (RowsAffected > 0)
                 {
                     MessageBox.Show("Dados salvos com sucesso!");
@@ -76,7 +79,7 @@ namespace viarcompatibilidade
             {
                 this.openFileDialog1.ShowDialog(this);
                 string strFn = this.openFileDialog1.FileName;
-
+                
                 if (string.IsNullOrEmpty(strFn))
                     return;
 
@@ -92,7 +95,7 @@ namespace viarcompatibilidade
             {
                 MessageBox.Show(ex.Message);
             }
-        }
+            }
 
         private void button2_Click(object sender, EventArgs e)
         {
