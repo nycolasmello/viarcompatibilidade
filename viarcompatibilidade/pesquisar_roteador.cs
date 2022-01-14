@@ -15,7 +15,7 @@ namespace viarcompatibilidade
 {
     public partial class pesquisar_roteador : Form
     {
-        string strcon = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Administrator\source\repos\viarcompatibilidade\viarcompatibilidade\DB_Roteadores.mdf;Integrated Security=True";
+        string strcon = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Viar\Source\Repos\viarcompatibilidade1\viarcompatibilidade\roteadores.mdf;Integrated Security=True";
         public pesquisar_roteador()
         {
             InitializeComponent();
@@ -52,7 +52,7 @@ namespace viarcompatibilidade
                 SqlCommand cmdSelect = new SqlCommand("select FOTO,DESCRICAO from roteadores where NOME=@NOME",cn);
                 
                 cmdSelect.Parameters.Add("@NOME", SqlDbType.VarChar, 50);
-                cmdSelect.Parameters.Add("@DESCRICAO", SqlDbType.VarChar, 500);
+                cmdSelect.Parameters.Add("@DESCRICAO", SqlDbType.VarChar, 750);
                 cmdSelect.Parameters["@DESCRICAO"].Value = this.textBox1.Text;
                 cmdSelect.Parameters["@NOME"].Value = this.comboBox1.Text;
                 cn.Open();      

@@ -14,7 +14,7 @@ namespace viarcompatibilidade
 {
     public partial class adicionar_roteadores : Form
     {
-        string strcon = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Administrator\source\repos\viarcompatibilidade\viarcompatibilidade\DB_Roteadores.mdf;Integrated Security=True";
+        string strcon = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Viar\Source\Repos\viarcompatibilidade1\viarcompatibilidade\roteadores.mdf;Integrated Security=True";
         public adicionar_roteadores()
         {
             InitializeComponent();
@@ -41,24 +41,18 @@ namespace viarcompatibilidade
                 BinaryReader br = new BinaryReader(fs);
                 Byte[] ImageData;
                 ImageData = br.ReadBytes((int)fs.Length);
-               // Byte[] byt = new Byte[FileName.Length];
-               // fs.Read(byt, 0, byt.Length);
                 fs.Close();
                 br.Close();
                 string CmdString = "INSERT INTO roteadores (NOME, DESCRICAO, FOTO) values (@NOME, @DESCRICAO, @FOTO)";
                 SqlCommand cmd = new SqlCommand(CmdString, cn);
 
                 cmd.Parameters.Add("@NOME", SqlDbType.VarChar, 50);
-                cmd.Parameters.Add("@DESCRICAO", SqlDbType.VarChar, 500);
+                cmd.Parameters.Add("@DESCRICAO", SqlDbType.VarChar, 750);
                 cmd.Parameters.Add("@FOTO", SqlDbType.Image);
                 
                 cmd.Parameters["@NOME"].Value = textBox1.Text;
                 cmd.Parameters["@DESCRICAO"].Value = textBox2.Text;
                 cmd.Parameters["@FOTO"].Value = ImageData;
-                //SqlParameter prm = new SqlParameter("@FOTO", SqlDbType.VarBinary, byt.Length, ParameterDirection.Input, false, 0, 0, null, DataRowVersion.Current, byt);
-                //cmd.Parameters.Add(prm);
-
-
                 cn.Open();
                 int RowsAffected = cmd.ExecuteNonQuery();
                 if (RowsAffected > 0)

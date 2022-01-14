@@ -29,6 +29,7 @@ namespace viarcompatibilidade
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(adicionar_roteadores));
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -42,7 +43,7 @@ namespace viarcompatibilidade
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(179, 354);
+            this.button1.Location = new System.Drawing.Point(286, 189);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
@@ -52,7 +53,7 @@ namespace viarcompatibilidade
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(12, 175);
+            this.button2.Location = new System.Drawing.Point(49, 189);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(98, 23);
             this.button2.TabIndex = 1;
@@ -62,7 +63,8 @@ namespace viarcompatibilidade
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(125, 25);
+            this.textBox1.BackColor = System.Drawing.SystemColors.Info;
+            this.textBox1.Location = new System.Drawing.Point(225, 27);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(184, 23);
             this.textBox1.TabIndex = 2;
@@ -70,16 +72,16 @@ namespace viarcompatibilidade
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 25);
+            this.label1.Location = new System.Drawing.Point(265, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(88, 15);
+            this.label1.Size = new System.Drawing.Size(105, 15);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Nome roteador";
+            this.label1.Text = "Nome do roteador";
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.pictureBox1.Location = new System.Drawing.Point(125, 166);
+            this.pictureBox1.BackColor = System.Drawing.SystemColors.Info;
+            this.pictureBox1.Location = new System.Drawing.Point(12, 11);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(184, 172);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -88,7 +90,8 @@ namespace viarcompatibilidade
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(125, 54);
+            this.textBox2.BackColor = System.Drawing.SystemColors.Info;
+            this.textBox2.Location = new System.Drawing.Point(225, 87);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(184, 96);
@@ -97,7 +100,7 @@ namespace viarcompatibilidade
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 57);
+            this.label2.Location = new System.Drawing.Point(264, 69);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(106, 15);
             this.label2.TabIndex = 6;
@@ -111,7 +114,7 @@ namespace viarcompatibilidade
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(342, 412);
+            this.ClientSize = new System.Drawing.Size(427, 224);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.pictureBox1);
@@ -119,8 +122,10 @@ namespace viarcompatibilidade
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "adicionar_roteadores";
-            this.Text = "adicionar_roteadores";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Adicionar Roteadores";
             this.Load += new System.EventHandler(this.adicionar_roteadores_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
