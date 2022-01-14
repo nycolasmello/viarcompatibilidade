@@ -123,6 +123,46 @@ namespace viarcompatibilidade.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _5506_01 {
+            get {
+                object obj = ResourceManager.GetObject("5506-01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _5506_01a {
+            get {
+                object obj = ResourceManager.GetObject("5506-01a", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _5506_04 {
+            get {
+                object obj = ResourceManager.GetObject("5506-04", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _550602b {
+            get {
+                object obj = ResourceManager.GetObject("550602b", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _820n {
             get {
                 object obj = ResourceManager.GetObject("820n", resourceCulture);
@@ -196,6 +236,26 @@ namespace viarcompatibilidade.Properties {
         internal static System.Drawing.Bitmap alot3600 {
             get {
                 object obj = ResourceManager.GetObject("alot3600", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap an_5501_01 {
+            get {
+                object obj = ResourceManager.GetObject("an 5501 01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap an550604f {
+            get {
+                object obj = ResourceManager.GetObject("an550604f", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -606,6 +666,26 @@ namespace viarcompatibilidade.Properties {
         internal static System.Drawing.Bitmap haplites {
             get {
                 object obj = ResourceManager.GetObject("haplites", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hg6143d {
+            get {
+                object obj = ResourceManager.GetObject("hg6143d", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap HG6245D_d {
+            get {
+                object obj = ResourceManager.GetObject("HG6245D-d", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

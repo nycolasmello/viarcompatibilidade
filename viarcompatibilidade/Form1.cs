@@ -82,5 +82,11 @@ namespace viarcompatibilidade
             roteadores_mercusys rot_mercusys = new roteadores_mercusys();
             rot_mercusys.Show();
         }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            roteadores_fiberhome rot_fiber = new roteadores_fiberhome();
+            rot_fiber.Show();
+        }
     }
 }

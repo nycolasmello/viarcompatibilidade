@@ -48,46 +48,43 @@ namespace viarcompatibilidade
             try
             {
                 SqlConnection cn = new SqlConnection(strcon);
-                
-                SqlCommand cmdSelect = new SqlCommand("select FOTO,DESCRICAO from roteadores where NOME=@NOME",cn);
-                
+                SqlCommand cmdSelect = new SqlCommand("select FOTO, DESCRICAO from roteadores where NOME=@NOME", cn);
                 cmdSelect.Parameters.Add("@NOME", SqlDbType.VarChar, 50);
                 cmdSelect.Parameters.Add("@DESCRICAO", SqlDbType.VarChar, 750);
                 cmdSelect.Parameters["@DESCRICAO"].Value = this.textBox1.Text;
                 cmdSelect.Parameters["@NOME"].Value = this.comboBox1.Text;
-                cn.Open();      
-                
+                cn.Open();
                 byte[] vetorImagem = (byte[])cmdSelect.ExecuteScalar();
                 string strNomeArquivo = Convert.ToString(DateTime.Now.ToFileTime());
                 FileStream fs = new FileStream(strNomeArquivo, FileMode.CreateNew, FileAccess.Write);
-                fs.Write(vetorImagem, 0, vetorImagem.Length);
-                fs.Flush();
-                fs.Close();
+                if (vetorImagem != null)
+                {
+                    fs.Write(vetorImagem, 0, vetorImagem.Length);
+                    fs.Flush();
+                    fs.Close();                
+                }
+
+                else
+                {
+                    MessageBox.Show("Roteador não encontrado no banco de dados.\n\nOBS: Consulte o Administrador do sistema para cadastros.", "Entrada inválida", MessageBoxButtons.OK,  MessageBoxIcon.Warning);
+                }
+
                 SqlDataReader da = cmdSelect.ExecuteReader();
+
                 while (da.Read())
                 {
                     textBox1.Text = da.GetValue(1).ToString();
                 }
-                
-
-
                 pictureBox1.Image = Image.FromFile(strNomeArquivo);
 
                 cn.Close();
             }
 
-            catch (Exception ex)
+            catch (Exception)
             {
-                MessageBox.Show(ex.Message);
 
             }
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-
+        }                
     }
 }
+

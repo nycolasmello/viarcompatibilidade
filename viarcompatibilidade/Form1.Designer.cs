@@ -34,7 +34,6 @@ namespace viarcompatibilidade
             this.opcoesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pesquisarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.adicionarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.marcasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -44,6 +43,7 @@ namespace viarcompatibilidade
             this.button7 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
+            this.button10 = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -62,8 +62,7 @@ namespace viarcompatibilidade
             this.opcoesToolStripMenuItem.BackColor = System.Drawing.Color.White;
             this.opcoesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.pesquisarToolStripMenuItem,
-            this.adicionarToolStripMenuItem,
-            this.marcasToolStripMenuItem});
+            this.adicionarToolStripMenuItem});
             this.opcoesToolStripMenuItem.Name = "opcoesToolStripMenuItem";
             this.opcoesToolStripMenuItem.Size = new System.Drawing.Size(59, 20);
             this.opcoesToolStripMenuItem.Text = "Opções";
@@ -81,12 +80,6 @@ namespace viarcompatibilidade
             this.adicionarToolStripMenuItem.Size = new System.Drawing.Size(125, 22);
             this.adicionarToolStripMenuItem.Text = "Adicionar";
             this.adicionarToolStripMenuItem.Click += new System.EventHandler(this.adicionarToolStripMenuItem_Click);
-            // 
-            // marcasToolStripMenuItem
-            // 
-            this.marcasToolStripMenuItem.Name = "marcasToolStripMenuItem";
-            this.marcasToolStripMenuItem.Size = new System.Drawing.Size(125, 22);
-            this.marcasToolStripMenuItem.Text = "Créditos";
             // 
             // button1
             // 
@@ -178,12 +171,23 @@ namespace viarcompatibilidade
             this.button9.UseVisualStyleBackColor = true;
             this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
+            // button10
+            // 
+            this.button10.Location = new System.Drawing.Point(187, 268);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(109, 38);
+            this.button10.TabIndex = 10;
+            this.button10.Text = "FIBERHOME";
+            this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.HighlightText;
             this.ClientSize = new System.Drawing.Size(371, 342);
+            this.Controls.Add(this.button10);
             this.Controls.Add(this.button9);
             this.Controls.Add(this.button8);
             this.Controls.Add(this.button7);
@@ -196,6 +200,7 @@ namespace viarcompatibilidade
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Aplicativo Compatibilidade Viarnet";
@@ -212,7 +217,6 @@ namespace viarcompatibilidade
         private System.Windows.Forms.ToolStripMenuItem opcoesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem pesquisarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem adicionarToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem marcasToolStripMenuItem;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
@@ -222,6 +226,7 @@ namespace viarcompatibilidade
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Button button9;
+        private System.Windows.Forms.Button button10;
     }
 }
 
