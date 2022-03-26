@@ -1,14 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Text;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.IO;
-using System.Drawing.Imaging;
-using Microsoft.VisualBasic;
 
 
 namespace viarcompatibilidade
@@ -24,6 +19,7 @@ namespace viarcompatibilidade
 
         private void pesquisar_roteador_Load(object sender, EventArgs e)
         {
+            //Busca todos os nomes de roteadores e insere na comboBox;
             SqlConnection cn = new SqlConnection(strcon);
             SqlCommand comm = new SqlCommand();
             string query = "SELECT NOME from roteadores";
@@ -47,6 +43,7 @@ namespace viarcompatibilidade
 
             try
             {
+                //Abre a conexão com o banco de dado, seleciona o roteador com base no que foi informado na pesquisa e mostra nos campos;
                 SqlConnection cn = new SqlConnection(strcon);
                 SqlCommand cmdSelect = new SqlCommand("select FOTO, DESCRICAO from roteadores where NOME=@NOME", cn);
                 cmdSelect.Parameters.Add("@NOME", SqlDbType.VarChar, 50);
