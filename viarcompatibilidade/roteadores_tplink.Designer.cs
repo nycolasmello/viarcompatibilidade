@@ -525,11 +525,11 @@ namespace viarcompatibilidade
             // label18
             // 
             this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(1153, 545);
+            this.label18.Location = new System.Drawing.Point(1141, 545);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(120, 15);
+            this.label18.Size = new System.Drawing.Size(145, 15);
             this.label18.TabIndex = 40;
-            this.label18.Text = "Roteador ARCHER C5";
+            this.label18.Text = "Roteador ARCHER C5/C50";
             // 
             // label19
             // 
@@ -579,11 +579,11 @@ namespace viarcompatibilidade
             // label24
             // 
             this.label24.AutoSize = true;
-            this.label24.Location = new System.Drawing.Point(1166, 726);
+            this.label24.Location = new System.Drawing.Point(1153, 726);
             this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(45, 15);
+            this.label24.Size = new System.Drawing.Size(107, 15);
             this.label24.TabIndex = 46;
-            this.label24.Text = "TESTE1";
+            this.label24.Text = "Roteador EC230 G1";
             // 
             // roteadores_tplink
             // 
