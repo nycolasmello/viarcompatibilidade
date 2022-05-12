@@ -516,11 +516,11 @@ namespace viarcompatibilidade
             // label17
             // 
             this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(886, 545);
+            this.label17.Location = new System.Drawing.Point(910, 545);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(193, 15);
+            this.label17.Size = new System.Drawing.Size(128, 15);
             this.label17.TabIndex = 39;
-            this.label17.Text = "Roteador High Power TL-WR941HP";
+            this.label17.Text = "Roteador TL-WR941HP";
             // 
             // label18
             // 
