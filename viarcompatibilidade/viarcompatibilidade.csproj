@@ -6,6 +6,11 @@
     <UseWindowsForms>true</UseWindowsForms>
     <AssemblyName>ViarCompatibilidade</AssemblyName>
     <ApplicationIcon>icon.ico</ApplicationIcon>
+    <Authors>Nycolas Mello e Matheus Luiz</Authors>
+    <Company>Viarnet Telecom</Company>
+    <Product>App Viar Compatibilidade</Product>
+    <Description>Este aplicativo foi desenvolvido por Nycolas Mello e Matheus Luiz com a intenção de redução de processos entre setor comercial e suporte.</Description>
+    <PackageProjectUrl>https://github.com/nycolasmello/viarcompatibilidade</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>

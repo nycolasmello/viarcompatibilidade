@@ -97,6 +97,7 @@ namespace viarcompatibilidade
             this.Name = "usuarios";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login Adicionar Roteadores";
+            this.Load += new System.EventHandler(this.usuarios_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

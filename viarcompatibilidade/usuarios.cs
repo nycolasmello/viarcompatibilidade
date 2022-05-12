@@ -28,5 +28,10 @@ namespace viarcompatibilidade
                 MessageBox.Show("Login ou senha incorreta!", "Login Inválido", MessageBoxButtons.OK);
             }
         }
+
+        private void usuarios_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -10,7 +10,7 @@ namespace viarcompatibilidade
 {
     public partial class pesquisar_roteador : Form
     {
-        string strcon = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Viar\Source\Repos\viarcompatibilidade1\viarcompatibilidade\roteadores.mdf;Integrated Security=True";
+        string strcon = @"Data Source=191.5.48.26;Initial Catalog=roteadores;Persist Security Info=True;User ID=viarnet;Password=Viarnet@@2022";
         public pesquisar_roteador()
         {
             InitializeComponent();
