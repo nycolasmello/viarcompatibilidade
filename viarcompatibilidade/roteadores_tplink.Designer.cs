@@ -581,9 +581,9 @@ namespace viarcompatibilidade
             this.label24.AutoSize = true;
             this.label24.Location = new System.Drawing.Point(1166, 726);
             this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(107, 15);
+            this.label24.Size = new System.Drawing.Size(45, 15);
             this.label24.TabIndex = 46;
-            this.label24.Text = "Roteador EC230 G1";
+            this.label24.Text = "TESTE1";
             // 
             // roteadores_tplink
             // 
