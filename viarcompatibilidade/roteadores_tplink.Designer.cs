@@ -373,7 +373,7 @@ namespace viarcompatibilidade
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(27, 175);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(156, 15);
+            this.label1.Size = new System.Drawing.Size(157, 15);
             this.label1.TabIndex = 24;
             this.label1.Text = "Roteador EC 220-G5 TP LINK";
             // 
@@ -391,9 +391,10 @@ namespace viarcompatibilidade
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(470, 175);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(151, 15);
+            this.label3.Size = new System.Drawing.Size(126, 15);
             this.label3.TabIndex = 26;
-            this.label3.Text = "Roteador ARCHER C50/C60";
+            this.label3.Text = "Roteador ARCHER C60";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -418,7 +419,7 @@ namespace viarcompatibilidade
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(1153, 175);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(118, 15);
+            this.label6.Size = new System.Drawing.Size(119, 15);
             this.label6.TabIndex = 29;
             this.label6.Text = "Roteador TL WR820N";
             // 
@@ -436,7 +437,7 @@ namespace viarcompatibilidade
             this.label8.AutoSize = true;
             this.label8.Location = new System.Drawing.Point(232, 364);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(187, 15);
+            this.label8.Size = new System.Drawing.Size(189, 15);
             this.label8.TabIndex = 31;
             this.label8.Text = "Roteador TL-WR949N/TL-WR940N";
             // 
@@ -445,7 +446,7 @@ namespace viarcompatibilidade
             this.label9.AutoSize = true;
             this.label9.Location = new System.Drawing.Point(707, 364);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(120, 15);
+            this.label9.Size = new System.Drawing.Size(121, 15);
             this.label9.TabIndex = 32;
             this.label9.Text = "Roteador TL-WR829N";
             // 
@@ -454,7 +455,7 @@ namespace viarcompatibilidade
             this.label10.AutoSize = true;
             this.label10.Location = new System.Drawing.Point(486, 365);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(120, 15);
+            this.label10.Size = new System.Drawing.Size(121, 15);
             this.label10.TabIndex = 32;
             this.label10.Text = "Roteador TL-WR840N";
             // 
@@ -463,7 +464,7 @@ namespace viarcompatibilidade
             this.label11.AutoSize = true;
             this.label11.Location = new System.Drawing.Point(918, 364);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(120, 15);
+            this.label11.Size = new System.Drawing.Size(121, 15);
             this.label11.TabIndex = 33;
             this.label11.Text = "Roteador TL-WR841N";
             // 
@@ -508,7 +509,7 @@ namespace viarcompatibilidade
             this.label16.AutoSize = true;
             this.label16.Location = new System.Drawing.Point(667, 545);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(192, 15);
+            this.label16.Size = new System.Drawing.Size(193, 15);
             this.label16.TabIndex = 38;
             this.label16.Text = "Roteador High Power TL-WR841HP";
             // 
@@ -517,7 +518,7 @@ namespace viarcompatibilidade
             this.label17.AutoSize = true;
             this.label17.Location = new System.Drawing.Point(886, 545);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(192, 15);
+            this.label17.Size = new System.Drawing.Size(193, 15);
             this.label17.TabIndex = 39;
             this.label17.Text = "Roteador High Power TL-WR941HP";
             // 
@@ -571,7 +572,7 @@ namespace viarcompatibilidade
             this.label23.AutoSize = true;
             this.label23.Location = new System.Drawing.Point(884, 726);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(200, 15);
+            this.label23.Size = new System.Drawing.Size(201, 15);
             this.label23.TabIndex = 45;
             this.label23.Text = "Roteador Omada EAP225-OUTDOOR";
             // 
@@ -590,7 +591,7 @@ namespace viarcompatibilidade
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.BackColor = System.Drawing.SystemColors.HighlightText;
-            this.ClientSize = new System.Drawing.Size(1322, 609);
+            this.ClientSize = new System.Drawing.Size(1343, 685);
             this.Controls.Add(this.label24);
             this.Controls.Add(this.label23);
             this.Controls.Add(this.label22);

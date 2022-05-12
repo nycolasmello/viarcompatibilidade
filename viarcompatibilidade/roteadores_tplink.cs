@@ -25,7 +25,7 @@ namespace viarcompatibilidade
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Compatibilidade C50: Planos até 100 mbps.\nWAN: 10/100.\nLAN: 4xLAN 10/100.\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m².\nÁrea de cobertura 5G (Por piso): Aproximadamente 30m².\n\nCompatibilidade C60: Planos até 100 mbps.\nWAN: 10/100.\nLAN: 4xLAN 10/100.\nRedes Wi-Fi: 2G e 5G\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m²\nÁrea de cobertura 5G (Por piso): Aproximadamente 30m².", "Roteadores C50/C60", MessageBoxButtons.OK);
+            MessageBox.Show("Compatibilidade C60: Planos até 100 mbps.\nWAN: 10/100.\nLAN: 4xLAN 10/100.\nRedes Wi-Fi: 2G e 5G\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m²\nÁrea de cobertura 5G (Por piso): Aproximadamente 30m².", "Roteadores C50/C60", MessageBoxButtons.OK);
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
@@ -100,7 +100,7 @@ namespace viarcompatibilidade
 
         private void pictureBox22_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Compatibilidade: Todos os planos.\nWAN: Gigabit.\nLAN: 4xLAN Gigabit.\nRedes Wi-Fi:2G e 5G.\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m².\nÁrea de cobertura 5G (Por piso): Aproximadamente 30m².", "Roteador ARCHER C5 ", MessageBoxButtons.OK);
+            MessageBox.Show("Compatibilidade C50: Planos até 100 mbps.\nWAN: 10/100.\nLAN: 4xLAN 10/100.\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m².\nÁrea de cobertura 5G (Por piso): Aproximadamente 30m².\n\nCompatibilidade C5: Todos os planos.\nWAN: Gigabit.\nLAN: 4xLAN Gigabit.\nRedes Wi-Fi:2G e 5G.\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m².\nÁrea de cobertura 5G (Por piso): Aproximadamente 30m².", "Roteador ARCHER C5/C50 ", MessageBoxButtons.OK);
         }
 
         private void pictureBox9_Click(object sender, EventArgs e)
@@ -131,6 +131,11 @@ namespace viarcompatibilidade
         private void pictureBox24_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Compatibilidade: Todos os planos.\nWAN: Gigabit.\nLAN: 3xLAN Gigabit.\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m².\nÁrea de cobertura 5G (Por piso): 30m².", "Roteador EC230 G1", MessageBoxButtons.OK);
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
