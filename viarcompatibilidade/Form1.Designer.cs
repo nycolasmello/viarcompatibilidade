@@ -184,7 +184,7 @@ namespace viarcompatibilidade
             // 
             // button11
             // 
-            this.button11.Location = new System.Drawing.Point(60, 321);
+            this.button11.Location = new System.Drawing.Point(115, 330);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(109, 38);
             this.button11.TabIndex = 11;
