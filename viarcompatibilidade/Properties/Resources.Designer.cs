@@ -293,6 +293,26 @@ namespace viarcompatibilidade.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ax3 {
+            get {
+                object obj = ResourceManager.GetObject("ax3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ax31 {
+            get {
+                object obj = ResourceManager.GetObject("ax31", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ax3600 {
             get {
                 object obj = ResourceManager.GetObject("ax3600", resourceCulture);
@@ -686,6 +706,46 @@ namespace viarcompatibilidade.Properties {
         internal static System.Drawing.Bitmap HG6245D_d {
             get {
                 object obj = ResourceManager.GetObject("HG6245D-d", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap huawei_AX2 {
+            get {
+                object obj = ResourceManager.GetObject("huawei AX2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap HUAWEI_WiFi_Mesh {
+            get {
+                object obj = ResourceManager.GetObject("HUAWEI WiFi Mesh", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap HUAWEI_WiFi_WS5200__V3_ {
+            get {
+                object obj = ResourceManager.GetObject("HUAWEI WiFi WS5200 (V3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap HUAWEI_WS318n {
+            get {
+                object obj = ResourceManager.GetObject("HUAWEI WS318n", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

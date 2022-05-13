@@ -130,6 +130,9 @@
   <data name="ax6000" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ax6000.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="huawei AX2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\huawei AX2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="iwr3000n" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\iwr3000n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -169,8 +172,17 @@
   <data name="225 outdoor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\225 outdoor.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="HUAWEI WiFi WS5200 (V3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HUAWEI WiFi WS5200 (V3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="wiforcegf12001" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\wiforcegf12001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="uap am m" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\uap am m.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HUAWEI WS318n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HUAWEI WS318n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="rg1200" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rg1200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -183,6 +195,9 @@
   </data>
   <data name="dir-611" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dir-611.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="linksys re6500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\linksys re6500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="941hp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\941hp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -202,17 +217,17 @@
   <data name="ax6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ax6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="linksys re6500" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\linksys re6500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ax3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ax3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="dir-878" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dir-878.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="HUAWEI WS318n-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HUAWEI WS318n-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="UAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\UAP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="c601" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c601.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ax3600" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ax3600.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -226,8 +241,8 @@
   <data name="UAP-AC-LITE_1024x1024.png" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\UAP-AC-LITE_1024x1024.png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="DIR-X5460" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DIR-X5460.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ax31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ax3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="4a" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -289,6 +304,9 @@
   <data name="gr3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\gr3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="DIR-X5460" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DIR-X5460.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="4c" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4c.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -307,8 +325,8 @@
   <data name="841n" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\841n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="uap am m" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\uap am m.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="c601" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c601.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="linksys-mr9000" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\linksys-mr9000.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -321,6 +339,9 @@
   </data>
   <data name="c21" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\c21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5506-01a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5506-01a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="mr30g" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mr30g.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -385,6 +406,9 @@
   <data name="mw301r" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mw301r.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="HUAWEI WiFi Mesh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HUAWEI WiFi Mesh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="haplites" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\haplites.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -424,7 +448,7 @@
   <data name="hg6143d" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hg6143d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="5506-01a" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5506-01a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ws318n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ws318n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

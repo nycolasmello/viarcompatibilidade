@@ -86,5 +86,11 @@ namespace viarcompatibilidade
         {
 
         }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            roteadores_huawei rot_huawei = new roteadores_huawei();
+            rot_huawei.Show();
+        }
     }
 }
