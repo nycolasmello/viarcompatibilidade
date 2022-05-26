@@ -363,6 +363,16 @@ namespace viarcompatibilidade.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap c2_750 {
+            get {
+                object obj = ResourceManager.GetObject("c2-750", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap c20 {
             get {
                 object obj = ResourceManager.GetObject("c20", resourceCulture);
@@ -746,6 +756,16 @@ namespace viarcompatibilidade.Properties {
         internal static System.Drawing.Bitmap HUAWEI_WS318n {
             get {
                 object obj = ResourceManager.GetObject("HUAWEI WS318n", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap HUAWEI_WS318n_2 {
+            get {
+                object obj = ResourceManager.GetObject("HUAWEI WS318n-2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1146,6 +1166,16 @@ namespace viarcompatibilidade.Properties {
         internal static System.Drawing.Bitmap wrv200 {
             get {
                 object obj = ResourceManager.GetObject("wrv200", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ws318n {
+            get {
+                object obj = ResourceManager.GetObject("ws318n", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

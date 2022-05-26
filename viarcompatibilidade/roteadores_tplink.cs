@@ -70,7 +70,7 @@ namespace viarcompatibilidade
 
         private void pictureBox20_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Compatibilidade: Todos os planos.\nWAN: Gigabit.\nLAN: 4xLAN Gigabit.\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m².\nÁrea de cobertura 5G (Por piso): Aproximadamente 30m².", "Roteador ARCHER C2 ", MessageBoxButtons.OK);
+            MessageBox.Show("Compatibilidade: Planos até 250 mbps.\nWAN: Gigabit.\nLAN: 4xLAN Gigabit.\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m².\nÁrea de cobertura 5G (Por piso): Aproximadamente 30m².", "Roteador ARCHER C2 AC900", MessageBoxButtons.OK);
         }
 
         private void pictureBox8_Click(object sender, EventArgs e)
@@ -135,6 +135,12 @@ namespace viarcompatibilidade
 
         private void label3_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void pictureBox25_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Compatibilidade: Planos até 250 mbps.\nWAN: Gigabit.\nLAN: 4xLAN Gigabit.\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m².\nÁrea de cobertura 5G (Por piso): Aproximadamente 30m².", "Roteador ARCHER C2 AC750", MessageBoxButtons.OK);
 
         }
     }

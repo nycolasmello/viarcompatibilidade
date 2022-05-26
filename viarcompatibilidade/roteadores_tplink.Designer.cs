@@ -78,6 +78,8 @@ namespace viarcompatibilidade
             this.label22 = new System.Windows.Forms.Label();
             this.label23 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
+            this.pictureBox25 = new System.Windows.Forms.PictureBox();
+            this.label25 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -102,6 +104,7 @@ namespace viarcompatibilidade
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
@@ -109,7 +112,7 @@ namespace viarcompatibilidade
             this.pictureBox1.Image = global::viarcompatibilidade.Properties.Resources.g5;
             this.pictureBox1.Location = new System.Drawing.Point(7, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox1.Size = new System.Drawing.Size(164, 133);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -118,9 +121,9 @@ namespace viarcompatibilidade
             // pictureBox2
             // 
             this.pictureBox2.Image = global::viarcompatibilidade.Properties.Resources.c6;
-            this.pictureBox2.Location = new System.Drawing.Point(225, 12);
+            this.pictureBox2.Location = new System.Drawing.Point(198, 12);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox2.Size = new System.Drawing.Size(164, 133);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
@@ -129,9 +132,9 @@ namespace viarcompatibilidade
             // pictureBox3
             // 
             this.pictureBox3.Image = global::viarcompatibilidade.Properties.Resources.c601;
-            this.pictureBox3.Location = new System.Drawing.Point(448, 12);
+            this.pictureBox3.Location = new System.Drawing.Point(391, 12);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox3.Size = new System.Drawing.Size(159, 133);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
@@ -140,9 +143,9 @@ namespace viarcompatibilidade
             // pictureBox4
             // 
             this.pictureBox4.Image = global::viarcompatibilidade.Properties.Resources.ax10;
-            this.pictureBox4.Location = new System.Drawing.Point(665, 12);
+            this.pictureBox4.Location = new System.Drawing.Point(577, 12);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox4.Size = new System.Drawing.Size(159, 133);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 3;
             this.pictureBox4.TabStop = false;
@@ -151,9 +154,9 @@ namespace viarcompatibilidade
             // pictureBox5
             // 
             this.pictureBox5.Image = global::viarcompatibilidade.Properties.Resources.mr3420;
-            this.pictureBox5.Location = new System.Drawing.Point(884, 12);
+            this.pictureBox5.Location = new System.Drawing.Point(771, 12);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox5.Size = new System.Drawing.Size(165, 133);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox5.TabIndex = 4;
             this.pictureBox5.TabStop = false;
@@ -162,9 +165,9 @@ namespace viarcompatibilidade
             // pictureBox6
             // 
             this.pictureBox6.Image = global::viarcompatibilidade.Properties.Resources._820n;
-            this.pictureBox6.Location = new System.Drawing.Point(1111, 12);
+            this.pictureBox6.Location = new System.Drawing.Point(966, 12);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox6.Size = new System.Drawing.Size(165, 133);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox6.TabIndex = 5;
             this.pictureBox6.TabStop = false;
@@ -173,9 +176,9 @@ namespace viarcompatibilidade
             // pictureBox7
             // 
             this.pictureBox7.Image = global::viarcompatibilidade.Properties.Resources.ax731;
-            this.pictureBox7.Location = new System.Drawing.Point(7, 202);
+            this.pictureBox7.Location = new System.Drawing.Point(7, 175);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox7.Size = new System.Drawing.Size(164, 133);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox7.TabIndex = 6;
             this.pictureBox7.TabStop = false;
@@ -184,9 +187,9 @@ namespace viarcompatibilidade
             // pictureBox8
             // 
             this.pictureBox8.Image = global::viarcompatibilidade.Properties.Resources.c20;
-            this.pictureBox8.Location = new System.Drawing.Point(7, 382);
+            this.pictureBox8.Location = new System.Drawing.Point(1153, 12);
             this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox8.Size = new System.Drawing.Size(165, 133);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox8.TabIndex = 7;
             this.pictureBox8.TabStop = false;
@@ -195,9 +198,9 @@ namespace viarcompatibilidade
             // pictureBox9
             // 
             this.pictureBox9.Image = global::viarcompatibilidade.Properties.Resources.deco;
-            this.pictureBox9.Location = new System.Drawing.Point(7, 563);
+            this.pictureBox9.Location = new System.Drawing.Point(7, 505);
             this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox9.Size = new System.Drawing.Size(164, 133);
             this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox9.TabIndex = 8;
             this.pictureBox9.TabStop = false;
@@ -206,9 +209,9 @@ namespace viarcompatibilidade
             // pictureBox10
             // 
             this.pictureBox10.Image = global::viarcompatibilidade.Properties.Resources.eap245;
-            this.pictureBox10.Location = new System.Drawing.Point(225, 563);
+            this.pictureBox10.Location = new System.Drawing.Point(198, 505);
             this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox10.Size = new System.Drawing.Size(164, 133);
             this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox10.TabIndex = 9;
             this.pictureBox10.TabStop = false;
@@ -217,9 +220,9 @@ namespace viarcompatibilidade
             // pictureBox11
             // 
             this.pictureBox11.Image = global::viarcompatibilidade.Properties.Resources._949;
-            this.pictureBox11.Location = new System.Drawing.Point(225, 202);
+            this.pictureBox11.Location = new System.Drawing.Point(198, 175);
             this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox11.Size = new System.Drawing.Size(164, 133);
             this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox11.TabIndex = 10;
             this.pictureBox11.TabStop = false;
@@ -228,9 +231,9 @@ namespace viarcompatibilidade
             // pictureBox12
             // 
             this.pictureBox12.Image = global::viarcompatibilidade.Properties.Resources.c21;
-            this.pictureBox12.Location = new System.Drawing.Point(225, 382);
+            this.pictureBox12.Location = new System.Drawing.Point(7, 340);
             this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox12.Size = new System.Drawing.Size(164, 133);
             this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox12.TabIndex = 11;
             this.pictureBox12.TabStop = false;
@@ -239,9 +242,9 @@ namespace viarcompatibilidade
             // pictureBox13
             // 
             this.pictureBox13.Image = global::viarcompatibilidade.Properties.Resources._840n;
-            this.pictureBox13.Location = new System.Drawing.Point(448, 202);
+            this.pictureBox13.Location = new System.Drawing.Point(391, 175);
             this.pictureBox13.Name = "pictureBox13";
-            this.pictureBox13.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox13.Size = new System.Drawing.Size(159, 133);
             this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox13.TabIndex = 12;
             this.pictureBox13.TabStop = false;
@@ -250,9 +253,9 @@ namespace viarcompatibilidade
             // pictureBox14
             // 
             this.pictureBox14.Image = global::viarcompatibilidade.Properties.Resources.c54;
-            this.pictureBox14.Location = new System.Drawing.Point(448, 382);
+            this.pictureBox14.Location = new System.Drawing.Point(198, 340);
             this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox14.Size = new System.Drawing.Size(164, 133);
             this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox14.TabIndex = 13;
             this.pictureBox14.TabStop = false;
@@ -261,9 +264,9 @@ namespace viarcompatibilidade
             // pictureBox15
             // 
             this.pictureBox15.Image = global::viarcompatibilidade.Properties.Resources.c7;
-            this.pictureBox15.Location = new System.Drawing.Point(448, 563);
+            this.pictureBox15.Location = new System.Drawing.Point(1153, 340);
             this.pictureBox15.Name = "pictureBox15";
-            this.pictureBox15.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox15.Size = new System.Drawing.Size(165, 133);
             this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox15.TabIndex = 14;
             this.pictureBox15.TabStop = false;
@@ -272,9 +275,9 @@ namespace viarcompatibilidade
             // pictureBox16
             // 
             this.pictureBox16.Image = global::viarcompatibilidade.Properties.Resources._820n;
-            this.pictureBox16.Location = new System.Drawing.Point(665, 202);
+            this.pictureBox16.Location = new System.Drawing.Point(577, 175);
             this.pictureBox16.Name = "pictureBox16";
-            this.pictureBox16.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox16.Size = new System.Drawing.Size(159, 133);
             this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox16.TabIndex = 15;
             this.pictureBox16.TabStop = false;
@@ -283,9 +286,9 @@ namespace viarcompatibilidade
             // pictureBox17
             // 
             this.pictureBox17.Image = global::viarcompatibilidade.Properties.Resources._841hp;
-            this.pictureBox17.Location = new System.Drawing.Point(665, 382);
+            this.pictureBox17.Location = new System.Drawing.Point(391, 340);
             this.pictureBox17.Name = "pictureBox17";
-            this.pictureBox17.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox17.Size = new System.Drawing.Size(159, 133);
             this.pictureBox17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox17.TabIndex = 16;
             this.pictureBox17.TabStop = false;
@@ -294,9 +297,9 @@ namespace viarcompatibilidade
             // pictureBox18
             // 
             this.pictureBox18.Image = global::viarcompatibilidade.Properties.Resources.eap225;
-            this.pictureBox18.Location = new System.Drawing.Point(665, 563);
+            this.pictureBox18.Location = new System.Drawing.Point(389, 505);
             this.pictureBox18.Name = "pictureBox18";
-            this.pictureBox18.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox18.Size = new System.Drawing.Size(161, 133);
             this.pictureBox18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox18.TabIndex = 17;
             this.pictureBox18.TabStop = false;
@@ -305,9 +308,9 @@ namespace viarcompatibilidade
             // pictureBox19
             // 
             this.pictureBox19.Image = global::viarcompatibilidade.Properties.Resources._841n;
-            this.pictureBox19.Location = new System.Drawing.Point(884, 202);
+            this.pictureBox19.Location = new System.Drawing.Point(771, 175);
             this.pictureBox19.Name = "pictureBox19";
-            this.pictureBox19.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox19.Size = new System.Drawing.Size(165, 133);
             this.pictureBox19.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox19.TabIndex = 18;
             this.pictureBox19.TabStop = false;
@@ -316,9 +319,9 @@ namespace viarcompatibilidade
             // pictureBox20
             // 
             this.pictureBox20.Image = global::viarcompatibilidade.Properties.Resources.c2;
-            this.pictureBox20.Location = new System.Drawing.Point(1111, 202);
+            this.pictureBox20.Location = new System.Drawing.Point(966, 175);
             this.pictureBox20.Name = "pictureBox20";
-            this.pictureBox20.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox20.Size = new System.Drawing.Size(165, 133);
             this.pictureBox20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox20.TabIndex = 19;
             this.pictureBox20.TabStop = false;
@@ -327,9 +330,9 @@ namespace viarcompatibilidade
             // pictureBox21
             // 
             this.pictureBox21.Image = global::viarcompatibilidade.Properties.Resources._941hp;
-            this.pictureBox21.Location = new System.Drawing.Point(884, 382);
+            this.pictureBox21.Location = new System.Drawing.Point(577, 340);
             this.pictureBox21.Name = "pictureBox21";
-            this.pictureBox21.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox21.Size = new System.Drawing.Size(165, 133);
             this.pictureBox21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox21.TabIndex = 20;
             this.pictureBox21.TabStop = false;
@@ -338,9 +341,9 @@ namespace viarcompatibilidade
             // pictureBox22
             // 
             this.pictureBox22.Image = global::viarcompatibilidade.Properties.Resources.c5;
-            this.pictureBox22.Location = new System.Drawing.Point(1111, 382);
+            this.pictureBox22.Location = new System.Drawing.Point(771, 340);
             this.pictureBox22.Name = "pictureBox22";
-            this.pictureBox22.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox22.Size = new System.Drawing.Size(165, 133);
             this.pictureBox22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox22.TabIndex = 21;
             this.pictureBox22.TabStop = false;
@@ -348,10 +351,11 @@ namespace viarcompatibilidade
             // 
             // pictureBox23
             // 
+            this.pictureBox23.BackColor = System.Drawing.SystemColors.HighlightText;
             this.pictureBox23.Image = global::viarcompatibilidade.Properties.Resources._225ot;
-            this.pictureBox23.Location = new System.Drawing.Point(884, 563);
+            this.pictureBox23.Location = new System.Drawing.Point(577, 505);
             this.pictureBox23.Name = "pictureBox23";
-            this.pictureBox23.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox23.Size = new System.Drawing.Size(165, 133);
             this.pictureBox23.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox23.TabIndex = 22;
             this.pictureBox23.TabStop = false;
@@ -360,9 +364,9 @@ namespace viarcompatibilidade
             // pictureBox24
             // 
             this.pictureBox24.Image = global::viarcompatibilidade.Properties.Resources.g12;
-            this.pictureBox24.Location = new System.Drawing.Point(1111, 563);
+            this.pictureBox24.Location = new System.Drawing.Point(966, 340);
             this.pictureBox24.Name = "pictureBox24";
-            this.pictureBox24.Size = new System.Drawing.Size(194, 160);
+            this.pictureBox24.Size = new System.Drawing.Size(165, 133);
             this.pictureBox24.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox24.TabIndex = 23;
             this.pictureBox24.TabStop = false;
@@ -371,7 +375,7 @@ namespace viarcompatibilidade
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(27, 175);
+            this.label1.Location = new System.Drawing.Point(9, 148);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(157, 15);
             this.label1.TabIndex = 24;
@@ -380,7 +384,7 @@ namespace viarcompatibilidade
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(245, 175);
+            this.label2.Location = new System.Drawing.Point(198, 148);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(164, 15);
             this.label2.TabIndex = 25;
@@ -389,7 +393,7 @@ namespace viarcompatibilidade
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(470, 175);
+            this.label3.Location = new System.Drawing.Point(410, 148);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(126, 15);
             this.label3.TabIndex = 26;
@@ -399,7 +403,7 @@ namespace viarcompatibilidade
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(683, 175);
+            this.label4.Location = new System.Drawing.Point(577, 148);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(165, 15);
             this.label4.TabIndex = 27;
@@ -408,7 +412,7 @@ namespace viarcompatibilidade
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(935, 175);
+            this.label5.Location = new System.Drawing.Point(794, 148);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(103, 15);
             this.label5.TabIndex = 28;
@@ -417,7 +421,7 @@ namespace viarcompatibilidade
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(1153, 175);
+            this.label6.Location = new System.Drawing.Point(991, 148);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(119, 15);
             this.label6.TabIndex = 29;
@@ -426,7 +430,7 @@ namespace viarcompatibilidade
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(38, 364);
+            this.label7.Location = new System.Drawing.Point(12, 311);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(133, 15);
             this.label7.TabIndex = 30;
@@ -435,7 +439,7 @@ namespace viarcompatibilidade
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(232, 364);
+            this.label8.Location = new System.Drawing.Point(182, 311);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(189, 15);
             this.label8.TabIndex = 31;
@@ -444,7 +448,7 @@ namespace viarcompatibilidade
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(707, 364);
+            this.label9.Location = new System.Drawing.Point(598, 311);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(121, 15);
             this.label9.TabIndex = 32;
@@ -453,7 +457,7 @@ namespace viarcompatibilidade
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(486, 365);
+            this.label10.Location = new System.Drawing.Point(410, 311);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(121, 15);
             this.label10.TabIndex = 32;
@@ -462,7 +466,7 @@ namespace viarcompatibilidade
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(918, 364);
+            this.label11.Location = new System.Drawing.Point(794, 311);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(121, 15);
             this.label11.TabIndex = 33;
@@ -471,16 +475,16 @@ namespace viarcompatibilidade
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(1153, 364);
+            this.label12.Location = new System.Drawing.Point(966, 311);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(120, 15);
+            this.label12.Size = new System.Drawing.Size(157, 15);
             this.label12.TabIndex = 34;
-            this.label12.Text = "Roteador ARCHER C2";
+            this.label12.Text = "Roteador ARCHER C2 AC900";
             // 
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(38, 545);
+            this.label13.Location = new System.Drawing.Point(1169, 148);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(126, 15);
             this.label13.TabIndex = 35;
@@ -489,7 +493,7 @@ namespace viarcompatibilidade
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(245, 545);
+            this.label14.Location = new System.Drawing.Point(19, 476);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(126, 15);
             this.label14.TabIndex = 36;
@@ -498,7 +502,7 @@ namespace viarcompatibilidade
             // label15
             // 
             this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(470, 545);
+            this.label15.Location = new System.Drawing.Point(207, 476);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(141, 15);
             this.label15.TabIndex = 37;
@@ -507,16 +511,16 @@ namespace viarcompatibilidade
             // label16
             // 
             this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(667, 545);
+            this.label16.Location = new System.Drawing.Point(389, 476);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(193, 15);
+            this.label16.Size = new System.Drawing.Size(147, 15);
             this.label16.TabIndex = 38;
-            this.label16.Text = "Roteador High Power TL-WR841HP";
+            this.label16.Text = "Roteador HP TL-WR841HP";
             // 
             // label17
             // 
             this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(910, 545);
+            this.label17.Location = new System.Drawing.Point(598, 476);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(128, 15);
             this.label17.TabIndex = 39;
@@ -525,7 +529,7 @@ namespace viarcompatibilidade
             // label18
             // 
             this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(1141, 545);
+            this.label18.Location = new System.Drawing.Point(781, 476);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(145, 15);
             this.label18.TabIndex = 40;
@@ -534,16 +538,16 @@ namespace viarcompatibilidade
             // label19
             // 
             this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(38, 726);
+            this.label19.Location = new System.Drawing.Point(17, 641);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(128, 15);
+            this.label19.Size = new System.Drawing.Size(148, 15);
             this.label19.TabIndex = 41;
-            this.label19.Text = "Roteador Deco AC1300";
+            this.label19.Text = "Roteador Deco M5 AC1300";
             // 
             // label20
             // 
             this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(245, 726);
+            this.label20.Location = new System.Drawing.Point(198, 641);
             this.label20.Name = "label20";
             this.label20.Size = new System.Drawing.Size(139, 15);
             this.label20.TabIndex = 42;
@@ -552,7 +556,7 @@ namespace viarcompatibilidade
             // label21
             // 
             this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(470, 726);
+            this.label21.Location = new System.Drawing.Point(1180, 476);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(115, 15);
             this.label21.TabIndex = 43;
@@ -561,7 +565,7 @@ namespace viarcompatibilidade
             // label22
             // 
             this.label22.AutoSize = true;
-            this.label22.Location = new System.Drawing.Point(695, 726);
+            this.label22.Location = new System.Drawing.Point(394, 641);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(142, 15);
             this.label22.TabIndex = 44;
@@ -570,7 +574,7 @@ namespace viarcompatibilidade
             // label23
             // 
             this.label23.AutoSize = true;
-            this.label23.Location = new System.Drawing.Point(884, 726);
+            this.label23.Location = new System.Drawing.Point(556, 641);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(201, 15);
             this.label23.TabIndex = 45;
@@ -579,11 +583,31 @@ namespace viarcompatibilidade
             // label24
             // 
             this.label24.AutoSize = true;
-            this.label24.Location = new System.Drawing.Point(1153, 726);
+            this.label24.Location = new System.Drawing.Point(991, 476);
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(107, 15);
             this.label24.TabIndex = 46;
             this.label24.Text = "Roteador EC230 G1";
+            // 
+            // pictureBox25
+            // 
+            this.pictureBox25.Image = global::viarcompatibilidade.Properties.Resources.c2_750;
+            this.pictureBox25.Location = new System.Drawing.Point(1153, 175);
+            this.pictureBox25.Name = "pictureBox25";
+            this.pictureBox25.Size = new System.Drawing.Size(165, 133);
+            this.pictureBox25.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox25.TabIndex = 47;
+            this.pictureBox25.TabStop = false;
+            this.pictureBox25.Click += new System.EventHandler(this.pictureBox25_Click);
+            // 
+            // label25
+            // 
+            this.label25.AutoSize = true;
+            this.label25.Location = new System.Drawing.Point(1153, 311);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(157, 15);
+            this.label25.TabIndex = 48;
+            this.label25.Text = "Roteador ARCHER C2 AC750";
             // 
             // roteadores_tplink
             // 
@@ -591,7 +615,9 @@ namespace viarcompatibilidade
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.BackColor = System.Drawing.SystemColors.HighlightText;
-            this.ClientSize = new System.Drawing.Size(1343, 685);
+            this.ClientSize = new System.Drawing.Size(1350, 672);
+            this.Controls.Add(this.label25);
+            this.Controls.Add(this.pictureBox25);
             this.Controls.Add(this.label24);
             this.Controls.Add(this.label23);
             this.Controls.Add(this.label22);
@@ -642,7 +668,6 @@ namespace viarcompatibilidade
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "roteadores_tplink";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -671,6 +696,7 @@ namespace viarcompatibilidade
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -726,5 +752,7 @@ namespace viarcompatibilidade
         private System.Windows.Forms.Label label22;
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.Label label24;
+        private System.Windows.Forms.PictureBox pictureBox25;
+        private System.Windows.Forms.Label label25;
     }
 }
