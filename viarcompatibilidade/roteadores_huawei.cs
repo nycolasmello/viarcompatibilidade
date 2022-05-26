@@ -32,7 +32,7 @@ namespace viarcompatibilidade
 
         private void pictureBox4_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Compatibilidade: Todos os planos.\nWAN: 1 Gigabit\nLAN: 3 Gigabit.\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m².\nÁrea de cobertura 5G (Por piso): Aproximadamente 30m².", "Roteador HUAWEI WS5200", MessageBoxButtons.OK);
+            MessageBox.Show("Compatibilidade: Todos os planos.\nWAN: 1 Gigabit\nLAN: 3 Gigabit.\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m².\nÁrea de cobertura 5G (Por piso): Aproximadamente 30m².", "Roteador HUAWEI WiFi MESH", MessageBoxButtons.OK);
         }
 
         private void pictureBox5_Click(object sender, EventArgs e)
