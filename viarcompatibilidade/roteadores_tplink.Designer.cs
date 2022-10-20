@@ -632,9 +632,9 @@ namespace viarcompatibilidade
             this.label26.AutoSize = true;
             this.label26.Location = new System.Drawing.Point(783, 641);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(132, 15);
+            this.label26.Size = new System.Drawing.Size(135, 15);
             this.label26.TabIndex = 50;
-            this.label26.Text = "Roteador Mesh Deco E4";
+            this.label26.Text = "Roteador MESH Deco E4";
             // 
             // pictureBox27
             // 
@@ -653,9 +653,9 @@ namespace viarcompatibilidade
             this.label27.AutoSize = true;
             this.label27.Location = new System.Drawing.Point(978, 641);
             this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(137, 15);
+            this.label27.Size = new System.Drawing.Size(140, 15);
             this.label27.TabIndex = 52;
-            this.label27.Text = "Roteador Mesh Deco M4";
+            this.label27.Text = "Roteador MESH Deco M4";
             // 
             // roteadores_tplink
             // 
