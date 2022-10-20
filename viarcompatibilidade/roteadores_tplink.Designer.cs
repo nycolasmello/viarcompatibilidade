@@ -80,6 +80,10 @@ namespace viarcompatibilidade
             this.label24 = new System.Windows.Forms.Label();
             this.pictureBox25 = new System.Windows.Forms.PictureBox();
             this.label25 = new System.Windows.Forms.Label();
+            this.pictureBox26 = new System.Windows.Forms.PictureBox();
+            this.label26 = new System.Windows.Forms.Label();
+            this.pictureBox27 = new System.Windows.Forms.PictureBox();
+            this.label27 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -105,6 +109,8 @@ namespace viarcompatibilidade
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
@@ -352,11 +358,11 @@ namespace viarcompatibilidade
             // pictureBox23
             // 
             this.pictureBox23.BackColor = System.Drawing.SystemColors.HighlightText;
-            this.pictureBox23.Image = global::viarcompatibilidade.Properties.Resources._225ot;
+            this.pictureBox23.Image = global::viarcompatibilidade.Properties.Resources.omadaoutdoor225;
             this.pictureBox23.Location = new System.Drawing.Point(577, 505);
             this.pictureBox23.Name = "pictureBox23";
             this.pictureBox23.Size = new System.Drawing.Size(165, 133);
-            this.pictureBox23.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox23.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox23.TabIndex = 22;
             this.pictureBox23.TabStop = false;
             this.pictureBox23.Click += new System.EventHandler(this.pictureBox23_Click);
@@ -609,6 +615,48 @@ namespace viarcompatibilidade
             this.label25.TabIndex = 48;
             this.label25.Text = "Roteador ARCHER C2 AC750";
             // 
+            // pictureBox26
+            // 
+            this.pictureBox26.BackColor = System.Drawing.SystemColors.HighlightText;
+            this.pictureBox26.Image = global::viarcompatibilidade.Properties.Resources.DecoE4;
+            this.pictureBox26.Location = new System.Drawing.Point(771, 505);
+            this.pictureBox26.Name = "pictureBox26";
+            this.pictureBox26.Size = new System.Drawing.Size(165, 133);
+            this.pictureBox26.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox26.TabIndex = 49;
+            this.pictureBox26.TabStop = false;
+            this.pictureBox26.Click += new System.EventHandler(this.pictureBox26_Click);
+            // 
+            // label26
+            // 
+            this.label26.AutoSize = true;
+            this.label26.Location = new System.Drawing.Point(783, 641);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(132, 15);
+            this.label26.TabIndex = 50;
+            this.label26.Text = "Roteador Mesh Deco E4";
+            // 
+            // pictureBox27
+            // 
+            this.pictureBox27.BackColor = System.Drawing.SystemColors.HighlightText;
+            this.pictureBox27.Image = global::viarcompatibilidade.Properties.Resources.DecoM4;
+            this.pictureBox27.Location = new System.Drawing.Point(966, 505);
+            this.pictureBox27.Name = "pictureBox27";
+            this.pictureBox27.Size = new System.Drawing.Size(165, 133);
+            this.pictureBox27.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox27.TabIndex = 51;
+            this.pictureBox27.TabStop = false;
+            this.pictureBox27.Click += new System.EventHandler(this.pictureBox27_Click);
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.Location = new System.Drawing.Point(978, 641);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(137, 15);
+            this.label27.TabIndex = 52;
+            this.label27.Text = "Roteador Mesh Deco M4";
+            // 
             // roteadores_tplink
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -616,6 +664,10 @@ namespace viarcompatibilidade
             this.AutoScroll = true;
             this.BackColor = System.Drawing.SystemColors.HighlightText;
             this.ClientSize = new System.Drawing.Size(1350, 672);
+            this.Controls.Add(this.label27);
+            this.Controls.Add(this.pictureBox27);
+            this.Controls.Add(this.label26);
+            this.Controls.Add(this.pictureBox26);
             this.Controls.Add(this.label25);
             this.Controls.Add(this.pictureBox25);
             this.Controls.Add(this.label24);
@@ -666,7 +718,8 @@ namespace viarcompatibilidade
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.ForeColor = System.Drawing.Color.Black;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MinimizeBox = false;
             this.Name = "roteadores_tplink";
@@ -697,6 +750,8 @@ namespace viarcompatibilidade
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -754,5 +809,9 @@ namespace viarcompatibilidade
         private System.Windows.Forms.Label label24;
         private System.Windows.Forms.PictureBox pictureBox25;
         private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.PictureBox pictureBox26;
+        private System.Windows.Forms.Label label26;
+        private System.Windows.Forms.PictureBox pictureBox27;
+        private System.Windows.Forms.Label label27;
     }
 }

@@ -127,8 +127,14 @@
   <data name="mr70x" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mr70x.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="ax6000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ax6000.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="huawei AX2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\huawei AX2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iwr3000n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\iwr3000n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="re018" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\re018.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,8 +151,8 @@
   <data name="re017" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\re017.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ax1800" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ax1800.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="mesh cosmo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mesh cosmo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="an 5501 01" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\an 5501 01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -160,8 +166,8 @@
   <data name="g12" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\g12.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="linksys E2500" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\linksys E2500.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="omadaoutdoor225" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\omadaoutdoor225.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DIR-853" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\DIR-853.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -175,11 +181,11 @@
   <data name="wiforcegf12001" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\wiforcegf12001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="uap am m" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\uap am m.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="HUAWEI WS318n" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HUAWEI WS318n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="UAP-AC-PRO_Connect_the_Ethernet_cable" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UAP-AC-PRO_Connect_the_Ethernet_cable.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="rg1200" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rg1200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -190,8 +196,14 @@
   <data name="linksys" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\linksys.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="dir-611" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dir-611.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="linksys re6500" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\linksys re6500.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DecoE4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DecoE4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="941hp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\941hp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -214,9 +226,6 @@
   <data name="ws318n" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ws318n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="c7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="ax3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ax3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -229,20 +238,17 @@
   <data name="UAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\UAP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="c601" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c601.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="ax3600" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ax3600.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="mercusys1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mercusys1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="DIR3040A" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DIR3040A.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="deco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\deco.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="DIRX1860" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DIRX1860.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="UAP-AC-LITE_1024x1024.png" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\UAP-AC-LITE_1024x1024.png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ax31" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ax3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -256,11 +262,17 @@
   <data name="linksys e5350" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\linksys e5350.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="wrt54tg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wrt54tg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="mercusys ac12g" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mercusys ac12g.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="mercusys ac10" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mercusys ac10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DIR-842" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DIR-842.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="mr50g" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mr50g.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -292,9 +304,6 @@
   <data name="mw305r" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mw305r.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="820n" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\820n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="linksys ea7450" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\linksys ea7450.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -309,9 +318,6 @@
   </data>
   <data name="DIR-X5460" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\DIR-X5460.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="mw301r" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mw301r.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="4c" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4c.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -328,14 +334,11 @@
   <data name="e73502" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\e73502.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="dir819" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\dir819.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="841n" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\841n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="uap am m" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\uap am m.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="c601" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c601.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="linksys-mr9000" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\linksys-mr9000.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -361,14 +364,14 @@
   <data name="330hp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\330hp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="dir-611" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\dir-611.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="820n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\820n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="g5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\g5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="wrt54tg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\wrt54tg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="DIR3040A" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DIR3040A.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="dir-815" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dir-815.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -379,17 +382,23 @@
   <data name="eap245" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\eap245.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="DIR-842" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DIR-842.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="c7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="iwr3000n" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\iwr3000n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="DIR-822" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DIR-822.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="linksys E2500" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\linksys E2500.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="949" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\949.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="DIR-822" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DIR-822.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="c2-750" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c2-750.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ax1800" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ax1800.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="mr3420" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mr3420.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -409,8 +418,8 @@
   <data name="ax731" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ax731.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="mesh cosmo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\mesh cosmo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="mw301r" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mw301r.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="HUAWEI WiFi Mesh" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HUAWEI WiFi Mesh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -430,11 +439,11 @@
   <data name="DIR-841" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\DIR-841.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="deco" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\deco.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="UAP-AC-PRO_Connect_the_Ethernet_cable" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\UAP-AC-PRO_Connect_the_Ethernet_cable.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ax6000" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ax6000.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="dir819" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dir819.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="550602b" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\550602b.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -445,13 +454,13 @@
   <data name="225ot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\225ot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="UAP-AC-LITE_1024x1024.png" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UAP-AC-LITE_1024x1024.png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="DIRX1860" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DIRX1860.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="hg6143d" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hg6143d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="c2-750" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c2-750.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="DecoM4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DecoM4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

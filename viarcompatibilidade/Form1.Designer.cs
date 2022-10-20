@@ -50,6 +50,7 @@ namespace viarcompatibilidade
             // 
             // menuStrip1
             // 
+            this.menuStrip1.BackColor = System.Drawing.SystemColors.HighlightText;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.opcoesToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);

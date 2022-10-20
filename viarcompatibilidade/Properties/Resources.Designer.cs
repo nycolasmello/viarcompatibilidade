@@ -453,6 +453,26 @@ namespace viarcompatibilidade.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap DecoE4 {
+            get {
+                object obj = ResourceManager.GetObject("DecoE4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap DecoM4 {
+            get {
+                object obj = ResourceManager.GetObject("DecoM4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap DIR_2150 {
             get {
                 object obj = ResourceManager.GetObject("DIR-2150", resourceCulture);
@@ -956,6 +976,16 @@ namespace viarcompatibilidade.Properties {
         internal static System.Drawing.Bitmap mw325r {
             get {
                 object obj = ResourceManager.GetObject("mw325r", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap omadaoutdoor225 {
+            get {
+                object obj = ResourceManager.GetObject("omadaoutdoor225", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

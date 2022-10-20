@@ -143,5 +143,15 @@ namespace viarcompatibilidade
             MessageBox.Show("Compatibilidade: Planos até 250 mbps.\nWAN: Gigabit.\nLAN: 4xLAN Gigabit.\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Por piso): Aproximadamente 50m².\nÁrea de cobertura 5G (Por piso): Aproximadamente 30m².", "Roteador ARCHER C2 AC750", MessageBoxButtons.OK);
 
         }
+
+        private void pictureBox26_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Compatibilidade: Planos até 100 mbps.\nWAN: 10/100.\nLAN: 2x LAN 10/100 (Contando com WAN).\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Um aparelho): Aproximadamente 60m².\nÁrea de cobertura 5G (Um aparelho): Aproximadamente 40m².", "Roteador MESH Deco E4", MessageBoxButtons.OK);
+        }
+
+        private void pictureBox27_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Compatibilidade: Planos até 600 mbps.\nWAN: 10/100.\nLAN: 2x LAN 10/100 (Contando com WAN).\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Um aparelho): Aproximadamente 60m².\nÁrea de cobertura 5G (Um aparelho): Aproximadamente 40m².", "Roteador MESH Deco M4", MessageBoxButtons.OK);
+        }
     }
 }
