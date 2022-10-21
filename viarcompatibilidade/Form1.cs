@@ -84,7 +84,7 @@ namespace viarcompatibilidade
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Atualização Nova\n\n-Adicionado Roteador MESH E4 na aba TP - LINK\n\n-Adicionado Roteador MESH M4 na aba TP - LINK\n\n-Atualizado informação ONU AN5506-02-B", "ATUALIZAÇAO NOVA",MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("-Adicionado Roteador MESH E4 na aba TP - LINK\n\n-Adicionado Roteador MESH M4 na aba TP - LINK\n\n-Atualizado informação ONU AN5506-02-B", "ATUALIZAÇÃO NOVA",MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void button11_Click(object sender, EventArgs e)
