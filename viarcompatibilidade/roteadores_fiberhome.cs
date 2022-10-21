@@ -42,7 +42,7 @@ namespace viarcompatibilidade
 
         private void pictureBox7_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Compatibilidade: Todos os planos.\nTelefonia: 1 entrada.\n LAN 1:Gigabit.\nLAN 2: 10/100 \nRedes Wi-Fi: Não possui.",  "ONU AN5506-02-B",  MessageBoxButtons.OK);
+            MessageBox.Show("Compatibilidade: Todos os planos.\nTelefonia: 1 entrada.\nLAN 1:Gigabit.\nLAN 2: 10/100 \nRedes Wi-Fi: Não possui.",  "ONU AN5506-02-B",  MessageBoxButtons.OK);
         }
 
         private void pictureBox5_Click(object sender, EventArgs e)
