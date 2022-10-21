@@ -151,7 +151,7 @@ namespace viarcompatibilidade
 
         private void pictureBox27_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Compatibilidade: Planos até 600 mbps.\nWAN: 10/100.\nLAN: 2x LAN 10/100 (Contando com WAN).\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Um aparelho): Aproximadamente 60m².\nÁrea de cobertura 5G (Um aparelho): Aproximadamente 40m².", "Roteador MESH Deco M4", MessageBoxButtons.OK);
+            MessageBox.Show("Compatibilidade: Planos até 600 mbps.\nWAN: GIGABIT .\nLAN: 2x LAN 10/100 (Contando com WAN).\nRedes Wi-Fi: 2G e 5G.\nÁrea de cobertura 2G (Um aparelho): Aproximadamente 60m².\nÁrea de cobertura 5G (Um aparelho): Aproximadamente 40m².", "Roteador MESH Deco M4", MessageBoxButtons.OK);
         }
     }
 }
